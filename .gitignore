@@ -1,0 +1,12 @@
+**/__pycache__/
+.DS_Store
+*.out
+*.log
+*.lis
+**/archive/
+slurm/logs
+data/
+src/fields.ukb
+src/ukbhelpers/k45023r48799.key
+src/ukbhelpers/ukb48799.enc
+src/ukbhelpers/ukb48799.enc_ukb
